@@ -5,7 +5,9 @@
 <div style="text-align:center">
   <img src="src/assets/vue.png" alt="vue" title="vue"/>
 </div>
+
 ### demo visit: [https://ccjoe.github.io/v-scroll](https://ccjoe.github.io/v-scroll)
+
 ### Development Setup
 
 ```bash
